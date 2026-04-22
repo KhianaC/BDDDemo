@@ -13,6 +13,7 @@ public class LoginSteps {
     @Given("User is at the login page of the application")
     public void user_is_at_the_login_page_of_the_application() {
         System.out.println("User is at the login page of the application");
+        System.out.println("Today is teacher's day");
     }
 
     @When("User logs in with following username and password")
