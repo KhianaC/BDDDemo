@@ -5,7 +5,7 @@ public class HelloWorld {
         System.out.println("This demo for no conflict");
         System.out.println("This demo ");
         
-        System.out.println("This demo is for git rebase from Intellij");
+        System.out.println("This demo is for git rebase from eclipse");
         
     }
     
